@@ -72,10 +72,10 @@ The project intentionally keeps JS light, focusing more on layout and styling.
 ---
 
 ## 📸 Screenshots
-![Desktop Preview](screenshots/full.png)
-![Recommended Preview](screenshots/first.png)
-![Smart Home Preview](screenshots/second.png)
-![Contact Us Preview](screenshots/third.png)
+![Desktop Preview](src/screenshots/full.png)
+![Recommended Preview](src/screenshots/first.png)
+![Smart Home Preview](src/screenshots/second.png)
+![Contact Us Preview](src/screenshots/third.png)
 
 ---
 
