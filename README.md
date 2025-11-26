@@ -85,8 +85,9 @@ The project intentionally keeps JS light, focusing more on layout and styling.
 landing-page-portfolio/
   index.html
   src/
-    images/              # Website images
     favicon/             # Icons
+    images/              # Website images
+    screenshots/         # Website Screenshots
     scripts/
       main.js            # JS interactions
     styles/
